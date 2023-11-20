@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark Martinez
 - 👀 I’m interested in utilizing data analysis to improve businesses
-- 🌱 I’m constantly learning SQL, R, Power BI, and Excel
+- 🌱 I’m constantly training SQL, R, Power BI, Tableau, and Excel
 - 💞️ I’m looking to collaborate with a team that helps organizations improve their processes and solves business issues
 - 📫 You can reach me at mtzmarky@gmail.com
 - THANK YOU 🤓
